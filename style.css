@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+  button{
+    cursor: pointer;
+    background-color: rgb(241, 209, 23);
+  }
+
+  input{
+    border-color: darkgoldenrod;
+    caret-color: rgb(255, 183, 0);
+  }
+
+  h1{
+    color: rgb(152, 124, 52);
+  }
+
+  h2{
+    color:rgb(152, 124, 52);
+  }
+
+  ::selection{
+    color: rgb(94, 87, 21);
+  }
